@@ -1,4 +1,10 @@
-# Create T3 App
+# Creating a Gradient Reading Progress Bar in NextJS with TailwindCSS
+
+![preview](https://github.com/biplobsd/biplobsd.github.io/blob/data/images/reading-progressbar/source-code-project-preview.gif?raw=true)
+
+Blog post: https://biplobsd.me/blogs/view/creating-a-gradient-reading-progress-bar-in-NextJS-and-tailwindcss.md
+
+## Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
